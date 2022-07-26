@@ -2,7 +2,7 @@
 public class StudentInfo2 {
 	public static void main(String[] args) {
 		
-		Student chulsu = new Student();
+		test1 chulsu = new test1();
 		
 		chulsu.name = "김철수";
 		chulsu.hakbun = "2022-001";
